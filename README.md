@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Khandare</h1>
-
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEzMDk3MjcsIm5iZiI6MTcyMTMwOTQyNywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE4VDEzMzAyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE2NTE3ZTg3NTYxMjBiMmY2ZmFhYzNiMzAyYjMzNzU2ODVkNGY4MjczNmI3YzVmN2U2ZDFiMzQxYzdmOGEyMGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Tgnx9u5PqXEx-3cb1v--ak6znkOOFD_jjzz5EoQH-SU" width="550" height="198">
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="550" height="516">
 <h3 align="center">A passionate frontend developer from India</h3>
 
