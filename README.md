@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Khandare</h1>
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img style="display: block;-webkit-user-select: none;margin:justify-content auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
