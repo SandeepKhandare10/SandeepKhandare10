@@ -13,6 +13,9 @@
   <a href="https://linkedin.com/in/sandeep-khandare1010" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-khandare1010" height="30" width="40" />
   </a>
+  <a href="https://leetcode.com/u/SandeepKhandare10/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandeep-khandare10" height="30" width="40" />
+  </a>
 </p>
 
 ---
