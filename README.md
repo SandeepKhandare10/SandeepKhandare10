@@ -56,6 +56,9 @@
 
 ---
 ![LeetCode Stats](https://leetcode.card.workers.dev/SandeepKhandare10?theme=dark&font=&extension=activity)>
+<p align="center">
+![LeetCode Stats](https://leetcode.card.workers.dev/SandeepKhandare10?theme=unicorn&font=milonga&extension=null)
+</p>
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepkhandare10&show_icons=true&locale=en&layout=compact" alt="sandeepkhandare10" />
