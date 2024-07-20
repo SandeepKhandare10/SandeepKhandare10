@@ -55,32 +55,7 @@
 </p>
 
 ---
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/SandeepKhandare10?ext=heatmap)
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Center Image</title>
-    <style>
-        .center {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-        }
-    </style>
-</head>
-<body>
-    <img src="https://leetcard.jacoblin.cool/SandeepKhandare10?ext=heatmap" alt="Leetcode Stats" class="center">
-</body>
-</html>
-
-
-
-
-
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepkhandare10&show_icons=true&locale=en&layout=compact" alt="sandeepkhandare10" />
