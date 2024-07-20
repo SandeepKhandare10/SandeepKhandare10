@@ -56,7 +56,7 @@
 
 ---
 <p align="center">
-<img align="center" src=![Leetcode Stats](https://leetcard.jacoblin.cool/SandeepKhandare10?ext=heatmap)/>
+![Leetcode Stats](https://leetcard.jacoblin.cool/SandeepKhandare10?ext=heatmap)
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
