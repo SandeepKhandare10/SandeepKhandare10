@@ -55,9 +55,8 @@
 </p>
 
 ---
-![LeetCode Stats](https://leetcode.card.workers.dev/SandeepKhandare10?theme=dark&font=&extension=activity)>
+![Leetcode Stats](https://leetcard.jacoblin.cool/SandeepKhandare10?ext=heatmap)
 
-![LeetCode Stats](https://leetcode.card.workers.dev/SandeepKhandare10?theme=unicorn&font=milonga&extension=null)
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
