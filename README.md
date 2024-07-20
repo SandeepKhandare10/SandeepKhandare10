@@ -55,9 +55,9 @@
 </p>
 
 ---
-<p align="center">
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/SandeepKhandare10?ext=heatmap)
-</p>
+
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
