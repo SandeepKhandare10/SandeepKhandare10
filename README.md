@@ -5,7 +5,7 @@
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
 <p align="center">I specialize in creating interactive and responsive web applications. I have a strong foundation in frontend technologies and am always eager to learn and implement new skills.</p>
- 
+  
 ---
 
 <h3 align="left">Connect with me:</h3> 
